@@ -1,14 +1,17 @@
 # Employee-Attrition-Problem
-This repository contains a machine learning model that predicts employee attrition.
+This repository is to predict the salary of an employee based on the information provided in the dataset.
 
 # Description :
-The data is for company X which is trying to control attrition. There are two sets of data: “Existing employees” and “Employees who have left”. Following attributes are available for every employee. Satisfaction Level Last evaluation Number of projects Average monthly hours Time spent at the company Whether they have had a work accident Whether they have had a promotion in the last 5 years Departments (column sales) Salary Whether the employee has left
+Ai Robotics is a renowed company which is engaged specializes in enterprise agile planning, DeVops, application security,application lifecycle management and artificial intelligence and powered analytics, thereby creating secure digital experiences customers trust.
+Ai Robotics also operates business processes for enterprise function such as sourcing and procurement,finance and accounting,supply chain, marketing and sales on behalf of clients.
 
 # Objective :
 What type of employees are leaving? Determine which employees are prone to leave next. Present your results in the presentation sheet’s presentation area.
 
 # Output of the Project :
-Taking all the necessary steps to make employee more loyal to the company.
+Company can understand what factors affects their finance.for example:location, employee experience, education qualification, etc.
+They can get an optimized range of salaries that should be given to their employees based on factors such as job,type,employee experience,Educational qualification,etc.that will reduce spending of extra money.
+The company can get a rough idea of revenue so that they can allocate adequate amount for their employee's.
 
 
 
