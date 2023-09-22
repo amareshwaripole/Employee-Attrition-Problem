@@ -1,3 +1,14 @@
 # Employee-Attrition-Problem
 This repository contains a machine learning model that predicts employee attrition.
 
+# Description :
+The data is for company X which is trying to control attrition. There are two sets of data: “Existing employees” and “Employees who have left”. Following attributes are available for every employee. Satisfaction Level Last evaluation Number of projects Average monthly hours Time spent at the company Whether they have had a work accident Whether they have had a promotion in the last 5 years Departments (column sales) Salary Whether the employee has left
+
+# Objective :
+What type of employees are leaving? Determine which employees are prone to leave next. Present your results in the presentation sheet’s presentation area.
+
+# Output of the Project :
+Taking all the necessary steps to make employee more loyal to the company.
+
+
+
